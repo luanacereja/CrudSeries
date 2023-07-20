@@ -11,6 +11,8 @@ public class Serie {
     private Long id;
 
     private String name;
+
+    @Column(length = 500)
     private String description;
     private String country;
     private boolean watched;
