@@ -1,5 +1,5 @@
 <h1 align="center">
-  TODO List
+  Series List
 </h1>
 
 
